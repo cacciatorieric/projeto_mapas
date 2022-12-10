@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:mapas/.env.dart';
+import 'package:mapas/.keys/.env.dart';
 import 'package:mapas/models/rotas.dart';
 
 class RepositorioDeRotas {
